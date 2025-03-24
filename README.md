@@ -190,7 +190,7 @@
 
             <!-- Add your profile picture here -->
 
-            <img src="Passport.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="Picture.jpg" alt="Your Profile Picture" class="profile-picture">
 
             <h1>K Abinaya</h1>
 
